@@ -9,5 +9,5 @@
 ## This functionality creates a "notebook" that will help keeping track of the records of up to 4 players simultaniously, in case the users desires to play with opponents
 
 
-https://grantjenks.com/docs/freegames/simonsays.html
-https://pixabay.com
+inspired by: https://grantjenks.com/docs/freegames/simonsays.html
+sounds: https://pixabay.com
